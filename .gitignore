@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+sales_dashboard.db
+data/cleaned_sales.csv
+.streamlit/
